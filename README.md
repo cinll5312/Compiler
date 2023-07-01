@@ -1,5 +1,6 @@
 # Compiler_C
 一. 支援語法
+```
 1.<Program> ::= [<ProgramHead>]<MainFunction>
 2. <ProgramHead> ::= #include<stdio.h>
 3. <MainFunction> ::= ‘int main() {‘ <Block> ;‘}’
@@ -25,3 +26,4 @@
 |t|u|v|w|x|y|z
 21. <Digit> ::= 0|1|2|3|4|5|6|7|8|9
 22. <String> ::= " 任何非雙引號的字元集合"
+```
